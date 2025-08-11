@@ -44,3 +44,8 @@ The work focuses on identifying and correcting data quality issues, handling mis
 ## Next Steps
 - Create visualizations in Tableau or Power BI to better illustrate trends.
 - Apply statistical correlation testing to quantify relationships between variables.
+
+---
+
+*Data provided for learning purposes (course materials). Credit: AnalystBuilder / Alex Freberg.*
+
