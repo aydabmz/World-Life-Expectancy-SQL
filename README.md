@@ -1,4 +1,5 @@
 # World Life Expectancy – SQL Data Cleaning & Exploration
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)
 
 **Skills Used:** SQL (MySQL), Data Cleaning, Data Exploration, Window Functions, Joins, Aggregations, EDA, Data Quality Checks
 
