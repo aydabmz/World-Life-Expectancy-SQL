@@ -1,0 +1,6 @@
+# Tell GitHub Linguist this repo is SQL
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+
+# Optional: don’t let data files dominate the language stats
+*.csv linguist-detectable=false
